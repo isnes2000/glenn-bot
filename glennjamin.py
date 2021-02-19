@@ -11,4 +11,4 @@ async def on_message(message):
     if ("usm") in message.content:
         await message.channel.send('*ump')
         
-client.run('ODEyMjA4MTEyMjQ0NjIxMzQy.YC9ZwA.w6S7oXeYBL2agYBYKnNAWhxP4Rs')
+client.run('token here')
